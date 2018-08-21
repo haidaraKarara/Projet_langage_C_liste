@@ -1,3 +1,6 @@
+//Author : Ababacar Haidara 
+//Version: 1.0
+//Classe: DIC 2 Informatique (École Supérieure Polytechnique)
 #include <stdio.h>
 #include <stdlib.h>
 #include "insererMembre.h"
